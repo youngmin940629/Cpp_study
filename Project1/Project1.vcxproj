@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="helloworld.cpp" />
     <ClCompile Include="문자형자료형과bool자료형.cpp" />
+    <ClCompile Include="배열과문자열.cpp" />
     <ClCompile Include="변수선언.cpp" />
     <ClCompile Include="산술연산자와auto.cpp" />
     <ClCompile Include="정수형실수형.cpp" />

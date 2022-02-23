@@ -30,5 +30,8 @@
     <ClCompile Include="산술연산자와auto.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="배열과문자열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

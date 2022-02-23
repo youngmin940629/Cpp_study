@@ -1,2 +1,3 @@
-﻿  산술연산자와auto.cpp
+﻿  배열과문자열.cpp
+c:\users\multicampus\desktop\c++공부\project1\project1\배열과문자열.cpp(59): warning C4101: 'char1' :참조되지 않은 지역 변수입니다.
   Project1.vcxproj -> C:\Users\multicampus\Desktop\C++공부\Project1\Debug\Project1.exe
