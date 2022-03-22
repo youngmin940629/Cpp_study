@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="for문.cpp" />
     <ClCompile Include="helloworld.cpp" />
     <ClCompile Include="new연산자.cpp" />
     <ClCompile Include="공용체와 열거체.cpp" />
