@@ -126,9 +126,11 @@
     <ClCompile Include="for문.cpp" />
     <ClCompile Include="helloworld.cpp" />
     <ClCompile Include="new연산자.cpp" />
+    <ClCompile Include="while문.cpp" />
     <ClCompile Include="공용체와 열거체.cpp" />
     <ClCompile Include="구조체.cpp" />
     <ClCompile Include="문자형자료형과bool자료형.cpp" />
+    <ClCompile Include="반복문활용.cpp" />
     <ClCompile Include="배열과문자열.cpp" />
     <ClCompile Include="변수선언.cpp" />
     <ClCompile Include="산술연산자와auto.cpp" />
