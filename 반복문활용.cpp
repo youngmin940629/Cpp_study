@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	// �迭 ��� �ݺ���
+	// 배열 기반 반복문
 	int a[5] = { 1,3,5,7,9 };
 	for (int i = 0; i < 5; i++) {
 		cout << a[i];
@@ -15,7 +15,7 @@ int main() {
 	}
 	cout << '\n';
 
-	// ��ø ����
+	// 중첩 루프
 	int temp[4][5] = 
 	{
 		{1,2,3,4,5},

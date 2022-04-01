@@ -8,4 +8,4 @@ using namespace std;
 
 	cout << "a = " << a << endl << "b = " << b << endl;
 	return 0;
-} 
+}

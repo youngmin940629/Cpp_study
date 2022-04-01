@@ -1,11 +1,10 @@
-
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
-	// while ��, do while ��
+	// while 문, do while 문
 	string str = "Panda";
 	int i = 0;
 	while (str[i] != '\0')  {
@@ -23,7 +22,7 @@ int main()
 
 	int j = 0;
 	do {
-		cout << "while�� �Դϴ�.\n";
+		cout << "while문 입니다.\n";
 		j++;
 	} while (j < 3);
 

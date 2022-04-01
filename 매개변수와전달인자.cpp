@@ -6,9 +6,9 @@ void helloCPP(int, int);
 
 int main() {
 	int times, times2;
-	cout << "������ �Է��Ͻʽÿ�.\n";
+	cout << "정수를 입력하십시오.\n";
 	cin >> times;
-	cout << "������ �ѹ� �� �Է��Ͻʽÿ�.\n";
+	cout << "정수를 한번 더 입력하십시오.\n";
 	cin >> times2;
 	helloCPP(times, times2);
 	return 0;

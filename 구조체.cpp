@@ -4,10 +4,10 @@
 using namespace std;
 
 int main() {
-	// ����ü : �ٸ� ���������� ���Ǵ� �������� ����
-	// cf) �迭 : ���� ���������� ����
+	// 구조체 : 다른 데이터형이 허용되는 데이터의 집합
+	// cf) 배열 : 같은 데이터형의 집합
 
-	// �౸����
+	// 축구선수
 	// string name;
 	// string position;
 	// float height;
@@ -31,7 +31,7 @@ int main() {
 	B = {
 
 	};
-	// ����θ� 0 ���� ��
+	// 비워두면 0 으로 들어감
 	cout << B.name << endl;
 
 	MyStruct A[2] = {
